@@ -1,0 +1,12 @@
+name: forestmaker-ui
+title: forestmaker-ui
+username: pekinbranch
+account: pekinbranch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14041071
+bundleId: 9824320
+url: https://pekinbranch.shinyapps.io/forestmaker-ui/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
